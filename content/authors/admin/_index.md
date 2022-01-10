@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Jonathan Puritz
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor of Anthropogenic impacts on the evolution of marine populations
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Rhode Island
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
