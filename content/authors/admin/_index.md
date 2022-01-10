@@ -6,7 +6,7 @@ title: Jonathan Puritz
 superuser: true
 
 # Role/position
-role: Assistant Professor of Anthropogenic impacts on the evolution of marine populations
+role: Assistant Professor of Marine Evolutionary Biology
 
 # Organizations/Affiliations
 organizations:
@@ -62,7 +62,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PI
+- Principal Investigators
 ---
 
 Jonathan Puritz is a assistant professor of marine evolution at the University of Rhode Island. His uses molecular tools to understand the ecological and evolutionary processes of marine populations. Currently, his research focuses on using next-generation sequencing and genomics to understand how human populations affect connectivity and evolution in the ocean. He studies a variety of organisms, from oysters to sea stars.
