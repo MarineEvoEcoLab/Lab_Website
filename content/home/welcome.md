@@ -6,10 +6,8 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: |
-  Puritz Lab of
-  Marine Evolutionary Ecology 
-hero_media: welcome.jpg
+title: 
+hero_media: PuritzMEE2.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -18,6 +16,8 @@ design:
   css_class:
 ---
 
-<br>
+## How do humans affect the evolution of marine populations?
 
-The **Puritz Lab of Marine Evolutionary Ecology** has been a center of excellence for marine population genomics, teaching, and practice since its founding in 2017.
+###### Coastal ecosystems face a complex of stressors that span multiple temporal and spatial scales, from long-term global ocean change to localized episodes of coastal acidification, and marine species experience these multiple stressors simultaneously.  Understanding how marine populations will evolve in response to environmental change requires investigating the synergistic impacts of multiple stressors across all life stages.
+
+###### Our research investigates how natural and anthropogenic processes affect the evolution of marine populations through the lens of larval dispersal.  We combine laboratory multi-stressor larval exposure experiments with genomic surveys of natural populations, analyzing patterns of selection and migration in a geographic context using landscape (or seascape) genomic models.  Our lab also develops laboratory and bioinformatic methods to facilitate the use of next-generation sequencing in non-model species.
