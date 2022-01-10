@@ -6,7 +6,7 @@ title: Jonathan Puritz
 superuser: true
 
 # Role/position
-role: Assistant Professor of Anthropogenic impacts on the evolution of marine populations
+role: Assistant Professor of Marine Evolutionary Biology
 
 # Organizations/Affiliations
 organizations:
