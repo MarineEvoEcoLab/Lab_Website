@@ -9,18 +9,18 @@ nav#navbar-main li.nav-item {
 
 
 .navbar {
-  height: 110px;
+  height: 1.2sw;
   
   // Remove Bootstrap's navbar v-padding and assign v-padding to logo separately to maximise logo size.
   // Otherwise, Bootstrap's navbar v-padding causes issue with logo fitting within fixed 50px height bar in md-lg sizes.
-  padding: 0 0rem;
+  padding: 0.1sw 0.1sw;
 }
 
 
 .navbar-brand {
   // Set v-padding to 5px to align with 50/70px responsive max navbar heights.
-  padding-top: 0px;
-  padding-bottom: 0px;
+  padding-top: 0.1sw;
+  padding-bottom: 0.1sw;
 }
 .navbar-brand {
   img {
