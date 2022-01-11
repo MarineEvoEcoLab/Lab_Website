@@ -2,20 +2,37 @@
 nav#navbar-main li.nav-item {
   font-size: 24px;
   font-weight: bold;
-  padding-top: 5px;
-  padding-bottom: 5px;
+  
   
   
 }
 
-    a.navbar-brand {  
-            
-            src:"https://raw.githubusercontent.com/MarineEvoEcoLab/Lab_Website/main/assets/media/logo.png"; 
-             
-            image-rendering: optimizeQuality;
-            
-    
-      }
+
+.navbar {
+  height: 120px;
+  
+  // Remove Bootstrap's navbar v-padding and assign v-padding to logo separately to maximise logo size.
+  // Otherwise, Bootstrap's navbar v-padding causes issue with logo fitting within fixed 50px height bar in md-lg sizes.
+  padding: 0 1rem;
+}
+
+
+.navbar-brand {
+  // Set v-padding to 5px to align with 50/70px responsive max navbar heights.
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.navbar-brand {
+  img {
+    width: auto;
+    height: -moz-available;
+    height: -webkit-fill-available;
+    height: -webkit-stretch;
+    height: stretch;
+    max-height: 100px; // For lg+ responsive sizing. 60px height +10px v-padding = 70px
+    max-width: fit-content; // Must override default responsive image style.
+  }
+}
       
 .hero-lead{
   font-size: 24px;
@@ -37,6 +54,7 @@ nav#navbar-main li.nav-item {
 
 .hero-title{
   margin-right: 0rem;
+  margin-top: 0.2rem;
 }
 
 

@@ -7,7 +7,7 @@ widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: How do humans affect the evolution of marine populations?
-hero_media: PuritzMEE2.png
+# hero_media: PuritzMEE2.png
 
 design:
 # Choose how many columns the section has. Valid values: 1 or 2.
