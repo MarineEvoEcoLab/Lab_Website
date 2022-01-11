@@ -1,6 +1,6 @@
 .dropdown-menu,
 nav#navbar-main li.nav-item {
-  font-size: 24px;
+  font-size: 1.2rem;
   font-weight: bold;
   
   
@@ -9,18 +9,18 @@ nav#navbar-main li.nav-item {
 
 
 .navbar {
-  height: 120px;
+  height: 110px;
   
   // Remove Bootstrap's navbar v-padding and assign v-padding to logo separately to maximise logo size.
   // Otherwise, Bootstrap's navbar v-padding causes issue with logo fitting within fixed 50px height bar in md-lg sizes.
-  padding: 0 1rem;
+  padding: 0 0rem;
 }
 
 
 .navbar-brand {
   // Set v-padding to 5px to align with 50/70px responsive max navbar heights.
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 0px;
+  padding-bottom: 0px;
 }
 .navbar-brand {
   img {
@@ -35,10 +35,10 @@ nav#navbar-main li.nav-item {
 }
       
 .hero-lead{
-  font-size: 24px;
+  font-size: 1.2rem;
   line-height: 1;
   text-align: "center";
-  max-width: 2300px;
+  max-width: 75rem;
   margin-right: 0.0rem;
   
 
@@ -53,8 +53,9 @@ nav#navbar-main li.nav-item {
 }
 
 .hero-title{
-  margin-right: 0rem;
-  margin-top: 0.2rem;
+  font-size: 2.25rem;
+  
+  margin-top: 0.75rem;
 }
 
 

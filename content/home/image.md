@@ -18,9 +18,9 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: coders.jpg
+    image: IMG_3093.jpg
     image_darken: 0
-    image_parallax: false
+    image_parallax: true
     image_position: center
     image_size: cover
     text_color_light: true
