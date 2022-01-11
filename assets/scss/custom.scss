@@ -7,9 +7,8 @@ nav#navbar-main li.nav-item {
   
 }
 
-
 .navbar {
-  height: 1.2sw;
+  height: 1.5sw;
   
   // Remove Bootstrap's navbar v-padding and assign v-padding to logo separately to maximise logo size.
   // Otherwise, Bootstrap's navbar v-padding causes issue with logo fitting within fixed 50px height bar in md-lg sizes.
