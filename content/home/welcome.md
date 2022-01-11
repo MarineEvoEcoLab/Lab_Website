@@ -6,20 +6,20 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: How do humans affect the evolution of marine populations?
-# hero_media: PuritzMEE2.png
+title: 
+hero_media: IMG_0984.jpeg
 
 design:
 # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
 
 # Background image.
-  background:
-    image: "header_1.jpg"  # Name of image in `static/media/`.
-    image_darken: 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-    image_size: "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-    image_position:  "center"  # Options include `left`, `center` (default), or `right`.
-    image_parallax: true  # Use a fun parallax-like fixed background effect? true/false
+#  background:
+#    image: "header_1.jpg"  # Name of image in `static/media/`.
+#    image_darken: 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+#    image_size: "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+#    image_position:  "center"  # Options include `left`, `center` (default), or `right`.
+#    image_parallax: true  # Use a fun parallax-like fixed background effect? true/false
   
 # Text color (true=light or false=dark).
 text_color_light: true
@@ -29,5 +29,4 @@ text_color_light: true
 css_style:
 css_class: 
 ---
-<br/><br/>
-Our research investigates how natural and anthropogenic processes affect the evolution of marine populations through the lens of larval dispersal.  We combine laboratory multi-stressor larval exposure experiments with genomic surveys of natural populations, analyzing patterns of selection and migration in a geographic context using landscape (or seascape) genomic models.  Our lab also develops laboratory and bioinformatic methods to facilitate the use of next-generation sequencing in non-model species.
+The Puritz Lab of Marine Evolutionary Ecology is located with the [College of Environmental and Life Sciences](https://web.uri.edu/cels/) at the [University of Rhode Island](https://www.uri.edu). Our research investigates how natural and anthropogenic processes affect the evolution of marine populations through the lens of larval dispersal.  We combine laboratory multi-stressor larval exposure experiments with genomic surveys of natural populations, analyzing patterns of selection and migration in a geographic context using landscape (or seascape) genomic models.  Our lab also develops laboratory and bioinformatic methods to facilitate the use of next-generation sequencing in non-model species.
