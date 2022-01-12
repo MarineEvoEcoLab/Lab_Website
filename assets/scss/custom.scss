@@ -28,7 +28,7 @@ nav#navbar-main li.nav-item {
     height: -webkit-fill-available;
     height: -webkit-stretch;
     height: stretch;
-    max-height: 80px; // For lg+ responsive sizing. 60px height +10px v-padding = 70px
+    max-height: 70px; // For lg+ responsive sizing. 60px height +10px v-padding = 70px
     max-width: fit-content; // Must override default responsive image style.
   }
 }
@@ -38,7 +38,7 @@ nav#navbar-main li.nav-item {
   line-height: 1.25;
   text-align: "left";
   max-width: 200rem;
-  margin-top: 2.0rem;
+  margin-top: 2.0em;
   margin-bottom: 1em;
  
 }
@@ -60,7 +60,7 @@ nav#navbar-main li.nav-item {
 .overlay-text{
   color: #e2e1e1 !important;
   font-size: 3vw !important;
-  margin: 5% 0vw 0vh -1% !important;
+  margin: 5% 0vw 0vh 0% !important;
   
   @media (max-width: 600px){
     font-size: 12vw !important;
