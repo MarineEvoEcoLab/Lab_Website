@@ -18,8 +18,8 @@ nav#navbar-main li.nav-item {
 
 .navbar-brand {
   // Set v-padding to 5px to align with 50/70px responsive max navbar heights.
-  padding-top: 1.0em;
-  padding-bottom: 1.0em;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
 }
 .navbar-brand {
   img {
@@ -28,7 +28,7 @@ nav#navbar-main li.nav-item {
     height: -webkit-fill-available;
     height: -webkit-stretch;
     height: stretch;
-    max-height: 100px; // For lg+ responsive sizing. 60px height +10px v-padding = 70px
+    max-height: 80px; // For lg+ responsive sizing. 60px height +10px v-padding = 70px
     max-width: fit-content; // Must override default responsive image style.
   }
 }
@@ -58,7 +58,7 @@ nav#navbar-main li.nav-item {
 
 
 .overlay-text{
-  color: #b8b6b6 !important;
+  color: #e2e1e1 !important;
   font-size: 3vw !important;
   margin: 5% 0vw 0vh -1% !important;
   
