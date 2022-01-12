@@ -29,10 +29,7 @@ design:
   
 ---
 <div class="overlay-text" >
-
   <div class="think-bigger" >
   How do<br/>&nbsp;humans<br/>&nbsp;&nbsp;affect the<br/>&nbsp;&nbsp;&nbsp;evolution<br/>&nbsp;&nbsp;&nbsp;&nbsp;of marine <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;populations?
   </div>
-  
-
 </div>

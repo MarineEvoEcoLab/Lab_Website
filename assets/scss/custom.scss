@@ -59,17 +59,18 @@ nav#navbar-main li.nav-item {
 
 .overlay-text{
   color: #e2e1e1 !important;
-  font-size: 3vw !important;
-  margin: 5% 0vw 0vh 0% !important;
+  font-size: 3rem !important;
+  padding: 5vw 0;
+
   
-  @media (max-width: 600px){
-    font-size: 12vw !important;
+  @media (max-width: 800px){
+    font-size: 3rem !important;
     margin: 0 !important;
     }
     
   .think-bigger{
-    @media (max-width: 600px){
-      padding: 0rem 0rem 0 0rem!important;
+    @media (max-width: 800px){
+      
       }
     }
   
