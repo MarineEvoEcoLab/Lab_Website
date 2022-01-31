@@ -19,8 +19,10 @@ content:
   - Principal Investigators
   - Postdoctoral Researchers
   - Graduate Students
+  - Undergraduates
   - Visitors
   - Alumni
+  - Undergraduate Alumni
 design:
   show_interests: false
   show_role: true
