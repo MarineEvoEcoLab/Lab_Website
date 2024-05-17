@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Research Overview
+title: 
 subtitle:
 
 design: 
@@ -29,6 +29,6 @@ design:
 
 <div class="overlay-text" >
   <div class="think-bigger" >
-  <br/>&nbsp<br/>&nbsp;&nbsp;<br/>&nbsp;&nbsp;&nbsp;<br/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <br/>Research&nbsp<br/>&nbsp;&nbsp;<br/>&nbsp;&nbsp;Overview&nbsp;
   </div>
 </div>
