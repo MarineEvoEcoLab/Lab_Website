@@ -8,7 +8,7 @@ title: Research
 view: 2
 
 sections: 
-- block: portfolio
+  - block: portfolio
     id: projects
     content:
       title: Projects
