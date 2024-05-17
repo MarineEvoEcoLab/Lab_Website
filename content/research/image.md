@@ -23,6 +23,12 @@ design:
     image_size: "cover"  # Options are `cover` (default), `contain`, or `actual` size.
     image_position: "center"  # Options include `left`, `center` (default), or `right`.
     image_parallax: true  # Use a fun parallax-like fixed background effect? true/false
+        text_color_light: true
+  spacing:
+    padding: ["1px", "0", "50px", "0"]
+advanced:
+  css_class: fullscreen
+
   
 ---
 <p></p>
