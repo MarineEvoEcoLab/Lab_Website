@@ -27,8 +27,8 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: Avian disease ecolgy
-    tag: Avian disease ecology 
+  - name: Next-generation Sequencing
+    tag: NGS
   - name: Anthropogenic impacts
     tag: Anthropogenic impacts
   - name: Host immune response
