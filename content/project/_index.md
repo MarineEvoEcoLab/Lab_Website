@@ -12,7 +12,7 @@ header:
   caption: ""
   image: ""
 
-
+sections: 
 - block: portfolio
     id: projects
     content:
