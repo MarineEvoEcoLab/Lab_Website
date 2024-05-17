@@ -7,8 +7,11 @@ widget: portfolio
 headless: TRUE
 
 # Order that this section appears on the page.
-weight: 65
+weight: 20
 
+title: Next-generation Sequencing
+subtitle: "The advent of next-generation sequencing (NGS) has rapidly transcended population genetics to population genomics.  Current research focuses on adopting next-generation sequencing technology and embracing an ever-adapting genomic toolkit to take advantage of this unprecedented amount of genetic data.  Current research focuses on developing novel exome capture methods for non-model organisms.
+"
 
 content:
   # Page type to display. E.g. project.
@@ -23,20 +26,17 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: Next-generation Sequencing
-    tag: NGS
-  - name: Bioinformatics
-    tag: Bioinformatics
-  - name: Population Connectivity
-    tag: Connectivity
-  - name: Selection
-    tag: Selection
-  - name: Seascape Genomics
-    tag: Seascape Genomcis  
+  - name: Expressed Exome Capture Sequencing
+    tag: EecSeq
+  - name: Eastern Oyster Genome
+    tag: EOG
+  - name: Eastern Oyster SNP Array
+    tag: SNP Array
+
         
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '1'
+  columns: '2'
 
   # Toggle between the various page layout types.
   #   1 = List
