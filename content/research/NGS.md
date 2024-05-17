@@ -36,7 +36,7 @@ content:
         
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '1'
+  columns: '2'
 
   # Toggle between the various page layout types.
   #   1 = List
@@ -48,5 +48,5 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: True
 ---
-<img src="NGS.png" alt="Sequencer Icon" width="300" height="200">
+<img src="NGS.png" alt="Sequencer Icon" width="150" >
 
