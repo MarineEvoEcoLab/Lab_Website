@@ -29,12 +29,14 @@ content:
   filter_button:
   - name: Next-generation Sequencing
     tag: NGS
-  - name: Anthropogenic impacts
-    tag: Anthropogenic impacts
-  - name: Host immune response
-    tag: Host immune response
-  - name: Decision science
-    tag: Decision science
+  - name: Bioinformatics
+    tag: Bioinformatics
+  - name: Population Connectivity
+    tag: Connectivity
+  - name: Selection
+    tag: Selection
+  - name: Seascape Genomics
+    tag: Seascape Genomcis  
         
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
