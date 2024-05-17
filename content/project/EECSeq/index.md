@@ -1,5 +1,5 @@
 ---
-title: Next-generation sequencing
+title: Expressed Exome Capture Sequencing
 summary: 
 tags:
 - EecSeq
