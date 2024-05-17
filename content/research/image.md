@@ -26,9 +26,5 @@ design:
   
 ---
 
-.height-space {
-  height: 20px; /* Adds 20px of vertical space */
-}
-
 <div class="height-space"></div>
 
