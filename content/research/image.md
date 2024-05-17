@@ -25,7 +25,7 @@ design:
     image_parallax: true  # Use a fun parallax-like fixed background effect? true/false
     text_color_light: true
   spacing:
-    padding: ["0px", "0", "0px", "0"]
+    padding: ["10px", "0", "10px", "0"]
 
   
 ---
