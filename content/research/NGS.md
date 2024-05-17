@@ -48,5 +48,5 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: True
 ---
-<img src="NGS.png" alt="Sequencer Icon" width="150" >
+<img src="NGS.png" alt="Sequencer Icon" width="300" >
 
