@@ -25,6 +25,6 @@ design:
     image_parallax: true  # Use a fun parallax-like fixed background effect? true/false
   
 ---
-
+<p></p>
 <div class="height-space"></div>
-
+<p></p>
