@@ -8,7 +8,7 @@ main:
     url: people
     weight: 30
   - name: Research
-    url: project
+    url: Research
     weight: 40
   - name: Publications
     url: publication
