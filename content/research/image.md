@@ -15,16 +15,10 @@ weight: 10
 title:
 subtitle:
 
-design:
-  columns: "1"
-  background:
-    image: RO.png
-    image_darken: 0.5
-    image_parallax: false
-    image_position: center
-    image_size: cover
-    text_color_light: false
-  
 
+  
+banner:
+  image: 'RO.png'
+  caption: 'Image credit: [**Geo**](https://github.com/gcushen/)'
   
 ---
