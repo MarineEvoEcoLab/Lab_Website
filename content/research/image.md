@@ -24,7 +24,11 @@ design:
     image_position: "center"  # Options include `left`, `center` (default), or `right`.
     image_parallax: true  # Use a fun parallax-like fixed background effect? true/false
     text_color_light: true
-  spacing:
-    padding: ["10px", "0", "10px", "0"]
-
+ 
 ---
+
+<div class="overlay-text" >
+  <div class="think-bigger" >
+  <br/>&nbsp<br/>&nbsp;&nbsp;<br/>&nbsp;&nbsp;&nbsp;<br/>&nbsp;&nbsp;&nbsp;&nbsp;<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </div>
+</div>
