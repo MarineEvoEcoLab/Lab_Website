@@ -29,6 +29,6 @@ design:
 
 <div class="overlay-text" >
   <div class="think-bigger" >
-  <br/>&nbsp<br/>&nbsp;&nbsp;<br/>&nbsp;&nbsp;&nbsp;
+  <br/>&nbsp<br/>&nbsp;&nbsp;
   </div>
 </div>
