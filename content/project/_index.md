@@ -50,4 +50,4 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
-![screen reader text](RO.png)
+![screen reader text](/assets/media/RO.png)
