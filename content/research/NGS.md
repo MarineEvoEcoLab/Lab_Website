@@ -13,7 +13,7 @@ title: "NGS"
 subtitle: |
   <div>
     <img src="NGS.png" alt="Sequencer Icon" width="300">
- </div>    
+  </div>    
 
 
 content:
