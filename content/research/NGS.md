@@ -18,10 +18,6 @@ subtitle: |
       </div>
     </div>   
 
-
-
-"The advent of next-generation sequencing (NGS) has rapidly transcended population genetics to population genomics. Current research focuses on adopting next-generation sequencing technology and embracing an ever-adapting genomic toolkit to take advantage of this unprecedented amount of genetic data."
-
 content:
   # Page type to display. E.g. project.
   page_type: project
