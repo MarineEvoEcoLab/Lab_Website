@@ -35,7 +35,7 @@ content:
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
   - name: Expressed Exome Capture Sequencing
-    tag: EecSeq
+    tag: EecSeqBio
   - name: Eastern Oyster Genome
     tag: EOG
   - name: dDocent
