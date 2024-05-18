@@ -9,7 +9,12 @@ headless: TRUE
 # Order that this section appears on the page.
 weight: 20
 
-title: Next-generation Sequencing
+title: |
+  <div>
+    <img src="NGS.png" alt="Sequencer Icon" width="200">
+    <h1>NGS</h1>
+  </div>    
+
 subtitle: |
   <div>
     <img src="NGS.png" alt="Sequencer Icon" width="300">
