@@ -9,7 +9,7 @@ headless: TRUE
 # Order that this section appears on the page.
 weight: 20
 
-title: "NGS" 
+title: NGS 
 subtitle: |
   <div>
     <img src="NGS.png" alt="Sequencer Icon" width="300">
@@ -39,7 +39,7 @@ content:
         
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '2'
+  columns: '1'
 
   # Toggle between the various page layout types.
   #   1 = List
