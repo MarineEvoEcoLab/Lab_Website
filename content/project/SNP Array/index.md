@@ -2,7 +2,7 @@
 title: Next-generation sequencing
 summary: 
 tags:
-- NGS
+- SNP Array
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -30,4 +30,11 @@ url_video: ""
 #slides: example
 ---
 
-The advent of next-generation sequencing (NGS) has rapidly transcended population genetics to population genomics.  Current research focuses on adopting next-generation sequencing technology and embracing an ever-adapting genomic toolkit to take advantage of this unprecedented amount of genetic data.  Current research focuses on developing novel exome capture methods for non-model organisms.
+The eastern oyster, a crucial species for US aquaculture, benefits from improved breeding techniques. The Eastern Oyster Breeding Consortium created two SNP arrays to aid in genetic studies. One array, with 566K SNPs, is for screening, while the other, with 66K SNPs, is for breeders' use. These arrays help identify desirable traits and separate cultivated oysters from wild ones. The arrays also include markers for pathogen detection and mitochondrial identification. Despite challenges like low marker conversion rates due to genetic diversity, the arrays significantly enhance genetic research and breeding efforts for eastern oysters. They offer insights into traits, aid in selecting desirable stocks, and could even help in oyster restoration efforts.
+
+
+
+
+
+
+
