@@ -10,7 +10,15 @@ headless: TRUE
 weight: 20
 
 title: "Next-generation Sequencing"
-subtitle: "<img src='NGS.png' alt='Sequencer Icon' width='150'>The advent of next-generation sequencing (NGS) has rapidly transcended population genetics to population genomics.  Current research focuses on adopting next-generation sequencing technology and embracing an ever-adapting genomic toolkit to take advantage of this unprecedented amount of genetic data."    
+subtitle: |
+    <div style="display: flex; align-items: center;">
+      <div style="flex: 0;">
+        <img src="NGS.png" alt="Sequencer Icon" width="50">
+      </div>
+      <div style="flex: 1; padding-left: 10px;">
+        The advent of next-generation sequencing (NGS) has rapidly transcended population genetics to population genomics. Current research focuses on adopting next-generation sequencing technology and embracing an ever-adapting genomic toolkit to take advantage of this unprecedented amount of genetic data.
+      </div>
+    </div>    
 
 
 content:
