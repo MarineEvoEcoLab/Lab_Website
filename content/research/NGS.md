@@ -9,17 +9,12 @@ headless: TRUE
 # Order that this section appears on the page.
 weight: 20
 
-title: |
-  <div>
-    <img src="NGS.png" alt="Sequencer Icon" width="200">
-    <h1>NGS</h1>
-  </div>    
+title: NGS  
 
 subtitle: |
   <div>
     <img src="NGS.png" alt="Sequencer Icon" width="300">
-    <p>The advent of next-generation sequencing (NGS) has rapidly transcended population genetics to population genomics.  Current research focuses on adopting next-generation sequencing technology and embracing an ever-adapting genomic toolkit to take advantage of this unprecedented amount of genetic data.</p>
-  </div>    
+ </div>    
 
 
 content:
