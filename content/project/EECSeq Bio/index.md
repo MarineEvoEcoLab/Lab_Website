@@ -15,17 +15,11 @@ image:
 links:
 - icon: github
   icon_pack: fab
-  name: Follow
   url: https://github.com/MarineEvoEcoLab/EecSeq
-- icon: atom
-  icon_pack: fab
-  name: NSF-2016160
-  url: https://nsf.gov/awardsearch/showAward?AWD_ID=2016160
 url_code: "https://github.com/MarineEvoEcoLab/EecSeq"
 url_pdf: ""
 url_slides: ""
-url_video: "https://www.science.org/content/webinar/power-rna-broad-application-rna-based-sequencing-transcriptome-and-genome-analysis"
-
+url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
