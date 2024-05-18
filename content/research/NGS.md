@@ -10,7 +10,7 @@ headless: TRUE
 weight: 20
 
 title: |
-    <div style="display: flex; align-items: center; justify-content: right; text-align: center;">
+    <div style="display: flex; align-items: center; justify-content: left; text-align: center;">
       <img src="NGS.png" alt="Sequencer Icon" width="200" style="margin-right: 40px;">
       <div>
         Next-generation Sequencing
