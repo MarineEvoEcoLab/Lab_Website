@@ -1,5 +1,5 @@
 ---
-title: Expressed Exome Capture Sequencing
+title: EecSeq Bioinformatics
 summary: 
 tags:
 - EecSeqBio
