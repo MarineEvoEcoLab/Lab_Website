@@ -10,8 +10,12 @@ headless: TRUE
 weight: 20
 
 title: Next-generation Sequencing
-subtitle: "The advent of next-generation sequencing (NGS) has rapidly transcended population genetics to population genomics.  Current research focuses on adopting next-generation sequencing technology and embracing an ever-adapting genomic toolkit to take advantage of this unprecedented amount of genetic data.  Current research focuses on developing novel exome capture methods for non-model organisms.
-"
+subtitle: |
+  <div>
+    <img src="NGS.png" alt="Sequencer Icon" width="300">
+    <p>The advent of next-generation sequencing (NGS) has rapidly transcended population genetics to population genomics.  Current research focuses on adopting next-generation sequencing technology and embracing an ever-adapting genomic toolkit to take advantage of this unprecedented amount of genetic data.  Current research focuses on developing novel exome capture methods for non-model organisms.</p>
+  </div>    
+
 
 content:
   # Page type to display. E.g. project.
@@ -48,5 +52,5 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: True
 ---
-<img src="NGS.png" alt="Sequencer Icon" width="300" >
+
 
