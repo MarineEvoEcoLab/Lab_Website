@@ -16,8 +16,13 @@ links:
 - icon: book
   icon_pack: fab
   name: Documentation
-  url: https://dDocent.com
-url_code: "https://github.com/jpuritz/dDocent"
+  url: https://www.dDocent.com
+- icon: github
+  icon_pack: fab
+  name: Code
+  url: https://github.com/jpuritz/dDocent
+u
+url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -39,7 +44,7 @@ dDocent is simple bash wrapper to QC, assemble, map, and call SNPs from almost a
 
 dDocent employs a series of data reduction techniques, aligment based clustering (using CD-hit), and, for PE assembly, a specialized RAD assembly software (rainbow. This combination allows for accurate and effecient de novo assembly.
 
-![ This is 1000 simulated ddRAD data loci being assembled across a variety of parameters for each pipeline.](/denovo.png)
+![ This is 1000 simulated ddRAD data loci being assembled across a variety of parameters for each pipeline.](denovo.png)
 
 #### Bayesian, haplotype based, population-aware, genotyping from FreeBayes
 
