@@ -15,8 +15,12 @@ image:
 links:
 - icon: github
   icon_pack: fab
+  name: code
   url: https://github.com/MarineEvoEcoLab/EecSeq
-url_code: "https://github.com/MarineEvoEcoLab/EecSeq"
+- icon: atom
+  icon_pack: fas
+  name: NSF-2016160
+  url: https://nsf.gov/awardsearch/showAward?AWD_ID=2016160
 url_pdf: ""
 url_slides: ""
 url_video: ""

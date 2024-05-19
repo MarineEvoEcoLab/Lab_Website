@@ -18,7 +18,7 @@ links:
   name: Follow
   url: https://github.com/MarineEvoEcoLab/EecSeq
 - icon: atom
-  icon_pack: fab
+  icon_pack: fas
   name: NSF-2016160
   url: https://nsf.gov/awardsearch/showAward?AWD_ID=2016160
 url_code: "https://github.com/MarineEvoEcoLab/EecSeq"
