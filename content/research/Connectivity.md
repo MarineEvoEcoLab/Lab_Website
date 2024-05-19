@@ -37,7 +37,7 @@ content:
   - name: Fiddler Crabs
     tag: FiddlerCrab
   - name: Eastern Oyster
-    tag: Oyster
+    tag: Oysters
 
         
 design:
