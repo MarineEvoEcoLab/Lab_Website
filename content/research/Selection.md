@@ -35,7 +35,7 @@ content:
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
   - name: Coastal Stressors
-    tag: Coastal_Sressors
+    tag: Coastal_Stressors
  
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
