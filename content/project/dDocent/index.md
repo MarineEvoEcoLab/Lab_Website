@@ -21,7 +21,6 @@ links:
   icon_pack: fab
   name: Code
   url: https://github.com/jpuritz/dDocent
-u
 url_code: ""
 url_pdf: ""
 url_slides: ""
