@@ -14,7 +14,7 @@ image:
 
 links:
 - icon: book
-  icon_pack: fab
+  icon_pack: fas
   name: Documentation
   url: https://www.dDocent.com
 - icon: github
