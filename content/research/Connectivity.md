@@ -35,7 +35,7 @@ content:
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
   - name: Fiddler Crabs
-    tag: Fiddler Crabs
+    tag: FiddlerCrab
   - name: Eastern Oyster
     tag: Oyster
 
