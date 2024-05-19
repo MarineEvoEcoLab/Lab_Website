@@ -14,7 +14,7 @@ image:
 
 links:
 - icon: biorxiv
-  icon_pack: AI
+  icon_pack: ai
   name: MS thesis
   url: https://digitalcommons.uri.edu/cgi/viewcontent.cgi?article=3204&context=theses
 url_pdf: ""

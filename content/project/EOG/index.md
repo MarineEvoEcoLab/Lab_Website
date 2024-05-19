@@ -14,13 +14,13 @@ image:
 
 links:
 - icon: osf
-  icon_pack: AI
+  icon_pack: ai
   name: Open Science
   url: https://osf.io/9sm76/
 - icon: github
   icon_pack: fab
+  name: code
   url: https://github.com/The-Eastern-Oyster-Genome-Project/2023_Eastern_Oyster_Haplotig_Masked_Genome_
-url_code: "https://github.com/The-Eastern-Oyster-Genome-Project/2023_Eastern_Oyster_Haplotig_Masked_Genome"
 url_pdf: ""
 url_slides: ""
 url_video: ""

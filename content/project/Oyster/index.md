@@ -18,7 +18,7 @@ links:
   name: code
   url: https://github.com/The-Eastern-Oyster-Genome-Project/2024_Eastern_Oyster_Population_Genomics
 - icon: biorxiv
-  icon_pack: AI
+  icon_pack: ai
   name: preprint
   url: https://www.biorxiv.org/content/10.1101/2022.08.29.505629v1
 url_pdf: ""
