@@ -29,4 +29,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
-![](featured.gif)
+![](gif.gif)
