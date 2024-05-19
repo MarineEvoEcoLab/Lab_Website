@@ -38,6 +38,8 @@ content:
     tag: FiddlerCrab
   - name: Eastern Oyster
     tag: Oysters
+  - name: Horseshoe Crabs
+    tag: Horseshoe Crab
 
         
 design:
