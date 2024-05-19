@@ -7,17 +7,17 @@ widget: portfolio
 headless: TRUE
 
 # Order that this section appears on the page.
-weight: 30
+weight: 40
 
 title: |
     <div style="text-align: left;">
-      Bioinformatics 
+      Population Connectivity 
     </div> 
 subtitle: |
     <div style="display: flex; align-items: center; justify-content: left; text-align: justify;">
-      <img src="Bioinformatics.png" alt="Sequencer Icon" width="200" style="margin-right: 40px;">
+      <img src="Connectivity.png" alt="Sequencer Icon" width="200" style="margin-right: 40px;">
       <div>
-        As genomic scale data sets become standard in molecular ecology, understanding how to efficiently and accurately process raw data is critical for accuracy in downstream population-level analysis.  Current research focuses on RADseq bioinformatics and developing "reference-free" methods for exome captured data analysis.
+        Life history traits, such as location of fertilization and mode of larval development, have long been thought to influence the evolutionary process of marine organisms, from fine-scale genetic structure to the tempo and mode of speciation.  Current research focuses on how population connectivity influences populations on the margins of species ranges.
       </div>
     </div>   
 
@@ -34,12 +34,10 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: Expressed Exome Capture Sequencing
-    tag: EecSeqBio
-  - name: Eastern Oyster Genome
-    tag: EOG
-  - name: dDocent
-    tag: dDocent
+  - name: Fiddler Crabs
+    tag: Fiddler Crabs
+  - name: Eastern Oyster
+    tag: Oyster
 
         
 design:
