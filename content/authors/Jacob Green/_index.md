@@ -13,12 +13,12 @@ superuser: false
 role: PhD Student
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include de novo assembly and bioinformatic pipelines for exome capture and exploring the adaptation of the Eastern Oyster immune system in response to disease and climate change.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+#- Artificial Intelligence
+#- Computational Linguistics
+#- Information Retrieval
 
 education:
   courses:

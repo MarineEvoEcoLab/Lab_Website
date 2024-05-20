@@ -17,9 +17,9 @@ organizations:
 bio: My research interests include marine population genomics, seascape genomcis, and bioinformatics
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- marine population genomics
+- seascape genomics
+- bioinformatics
 
 education:
   courses:
@@ -40,7 +40,7 @@ social:
   link: 'mailto:jpuritz@uri.edu'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/jpuritz
+  link: https://twitter.com/jonpuritz
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=l3CNKC4AAAAJ&hl=en&oi=ao
@@ -57,7 +57,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -65,4 +65,4 @@ user_groups:
 - Principal Investigators
 ---
 
-Jonathan Puritz is an assistant professor of marine evolution at the University of Rhode Island. His uses molecular tools to understand the ecological and evolutionary processes of marine populations. Currently, his research focuses on using next-generation sequencing and genomics to understand how human populations affect connectivity and evolution in the ocean. He studies a variety of organisms, from oysters to sea stars.
+Jonathan Puritz is an associate professor of marine evolution at the University of Rhode Island. His uses molecular tools to understand the ecological and evolutionary processes of marine populations. Currently, his research focuses on using next-generation sequencing and genomics to understand how human populations affect connectivity and evolution in the ocean. He studies a variety of organisms, from oysters to sea stars.
