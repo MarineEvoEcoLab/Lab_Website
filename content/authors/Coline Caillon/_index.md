@@ -4,7 +4,7 @@ title: Coline Caillon
 
 # Username (this should match the folder name)
 authors:
--  Coline Caillon
+- Coline Caillon
 
 # Is this the primary user of the site?
 superuser: false
@@ -19,10 +19,10 @@ education:
   - course: PhD in Marine Biology
     institution: Institut Français de Recherche pour l'Exploitation de la Mer (IFREMER) – Laboratoire des Sciences de l'Environnement Marin (LEMAR)
     year: 2023
-   - course: MSc in Marine Sciences
+  - course: MSc in Marine Sciences
     institution: Institut Français de Recherche pour l'Exploitation de la Mer (IFREMER)
     year: 2020
-   - course: BSc in Biology of Organisms and Populations
+  - course: BSc in Biology of Organisms and Populations
     institution: University of Lille
     year: 2018
 
