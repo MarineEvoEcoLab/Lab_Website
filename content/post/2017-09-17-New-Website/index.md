@@ -1,6 +1,7 @@
 ---
 title: New Lab Website
 date: 2017-09-17
+lastmod: 2017-09-17
 ---
 
 New Lab Website
