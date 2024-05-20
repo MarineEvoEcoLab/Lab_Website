@@ -1,11 +1,10 @@
 ---
 # Display name
-title: Juliana Bucci
+title: Erin Wildes
 
 # Username (this should match the folder name)
 authors:
--  Juliana Bucci
-
+-  Erin Wildes
 # Is this the primary user of the site?
 superuser: false
 
@@ -14,9 +13,9 @@ role: Undergraduate Researcher
 
 education:
   courses:
-  - course: BSc in Medical Laboratory Science
+  - course: BS in Marine Affairs
     institution: University of Rhode Island
-    year: 2026
+    year: 2025
 #
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -37,4 +36,4 @@ user_groups:
 - Undergraduates
 ---
 
-I am an undergraduate pursuing a B.S in Medical Laboratory Science at the University of Rhode Island. I have been conducting research on the effect on Coastal Stressors on larval and juvenile oysters.
+I am an undergraduate pursuing a B.S in Marine Affairs at the University of Rhode Island. I have been conducting research on the effect on Coastal Stressors on larval and juvenile oysters.
