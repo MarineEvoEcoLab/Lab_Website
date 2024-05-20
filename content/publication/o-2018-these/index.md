@@ -9,6 +9,5 @@ authors:
 - David S Portnoy
 date: '2018-01-01'
 publishDate: '2024-05-20T14:26:19.273314Z'
-publication_types:
-- manuscript
+publication_types: ["2"]
 ---
