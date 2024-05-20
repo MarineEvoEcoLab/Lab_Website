@@ -34,7 +34,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduate Alumni
+- Undergraduate Student Alumni
 ---
 
 I finished my degree in Spring 2024 and will be starting an internshipt at the [Karen Beasley Sea Turtle

@@ -34,7 +34,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduate Alumni
+- Undergraduate Student Alumni
 ---
 
 I am a junior biological sciences major from North Haven, Connecticut. Ever since I took an evolution course, it sparked my interest in genetics. I am passionate to learn more about how environmental factors can play a large impact on the genetics of organisms. Working alongside Amy Zyck, I am learning about the genes involved in response to certain environmental stressors for oysters. 
