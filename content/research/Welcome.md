@@ -34,7 +34,7 @@ Our research is divided into two foundational pillars:
 ![img](RO.png)
 
 
-* Understanding how the environment and humans impact the evolution of marine populations
-  * Our research investigates how natural and anthropogenic processes affect the evolution of marine populations through the lens of larval dispersal.  We combine laboratory multi-stressor larval exposure experiments with genomic surveys of natural populations, analyzing patterns of selection and migration in a geographic context using landscape (or seascape) genomic models.
+* Understanding how natural and anthropogenic processes affect the evolution of marine populations through the lens of larval dispersal.
+  * We combine laboratory multi-stressor larval exposure experiments with genomic surveys of natural populations, analyzing patterns of selection and migration in a geographic context using landscape (or seascape) genomic models.
 * Developing genomic tools to ask evolutionary questions
   * We develop both laboratory and bioinformatic methods to facilitate the use of next-generation sequencing in non-model species.
