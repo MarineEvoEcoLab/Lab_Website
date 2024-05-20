@@ -1,5 +1,5 @@
 ---
-title: Synergistic effects of Coastal Acidification and Sewage Effluent:  A CASE study
+title: "Synergistic effects of Coastal Acidification and Sewage Effluent:  A CASE study"
 summary: 
 tags: 
 - CASE
