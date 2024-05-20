@@ -8,6 +8,6 @@ authors:
 date: '2014-01-01'
 publishDate: '2024-05-20T14:26:19.244743Z'
 publication_types:
-- article-journal
+- 2
 publication: '*PeerJ*'
 ---
