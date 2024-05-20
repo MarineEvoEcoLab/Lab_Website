@@ -54,7 +54,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Graduate Student Alumni
 ---
 
 I am currently a Masters student pursuing horseshoe crab (Limulus polyphemus) research in the Puritz Lab. My undergraduate work at Unity College in Maine allowed me to investigate the fascinating world of tardigrades alongside Dr. Emma Perry. While studying at Unity College, our lab discovered a new species of tardigrade (*Echiniscoides rugostellatus*)! Upon graduating in 2015, I started contract work with NOAA conducting port sampling in the port of New Bedford, MA on groundfish, shellfish, and crustacean species. This experience gave me a first-hand look (and taste!) at how physically taxing the day-to-day work of commercial fishermen really is. For the past three years, I have been at the Rhode Island Department of Environmental Management Marine Fisheries Division working as a full-time fisheries specialist. In this role, I serve as the Vice Chair of the Horseshoe Crab Technical Committee for the Atlantic States Marine Fisheries Division. The purpose of my research is to inform upon the many unknowns that horseshoe crab stock managers must consider when designing a sustainable fisheries management plan including genetic diversity, interannual movement patterns and dispersal, and phenotypic variations.

@@ -22,7 +22,8 @@ content:
   - Undergraduates
   - Visitors
   - Alumni
-  - Undergraduate Alumni
+  - Graduate Student Alumni
+  - Undergraduate Student Alumni
 design:
   show_interests: false
   show_role: true
