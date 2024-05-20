@@ -36,6 +36,8 @@ content:
   filter_button:
   - name: Coastal Stressors
     tag: Coastal_Stressors
+  - name: Coastal acidification and sewage effluent
+    tage: CASE
  
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

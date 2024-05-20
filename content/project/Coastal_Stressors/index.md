@@ -20,7 +20,7 @@ links:
 - icon: atom
   icon_pack: fas
   name: RISG-R/1822-2022-104-01
-  url: https://nsf.gov/awardsearch/showAward?AWD_ID=2049613
+  url: https://seagrant.gso.uri.edu/research/2020-2022-research-2/  
 
 url_code: ""
 url_pdf: ""
