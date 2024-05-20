@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Nina Padro
+title: Cierra Westbrook
 
 # Username (this should match the folder name)
 authors:
--  Nina Padro
+-  Cierra Westbrook
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,10 +14,10 @@ role: Former Undergraduate Researcher
 
 education:
   courses:
-  - course: BSc in Biological Sciences
+  - course: BSc in Marine Biology
     institution: University of Rhode Island
-    year: 2020
-
+    year: 2025
+#
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -34,7 +34,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduate Alumni
+- Undergraduate Student Alumni
 ---
 
-I am a junior biological sciences major from North Haven, Connecticut. Ever since I took an evolution course, it sparked my interest in genetics. I am passionate to learn more about how environmental factors can play a large impact on the genetics of organisms. Working alongside Amy Zyck, I am learning about the genes involved in response to certain environmental stressors for oysters. 
+I am an undergraduate pursuing a B.S in Marine Biology degree with a minor in Chemistry at the University of Rhode Island. I have been conducting research on the effect on Coastal Stressors on larval oysters using microscopic techniques and ImageJ to process data.

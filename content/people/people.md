@@ -18,8 +18,8 @@ content:
   user_groups:
   - Principal Investigators
   - Postdoctoral Researchers
-  - Graduate Students
   - Lab Managers and Research Asssistants
+  - Graduate Students
   - Undergraduates
   - Visitors
   - Alumni
