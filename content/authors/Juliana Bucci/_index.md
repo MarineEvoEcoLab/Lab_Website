@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Former Undergraduate Researcher
+role: Undergraduate Researcher
 
 education:
   courses:
@@ -37,4 +37,4 @@ user_groups:
 - Undergraduates
 ---
 
-I am an undergraduate pursuing a B.S in Marine Biology degree with a minor in Chemistry at the University of Rhode Island. I have been conducting research on the effect on Coastal Stressors on larval oysters using microscopic techniques and ImageJ to process data.
+I am an undergraduate pursuing a B.S in Medical Laboratory Science at the University of Rhode Island. I have been conducting research on the effect on Coastal Stressors on larval and juvenile oysters.

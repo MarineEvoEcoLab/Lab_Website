@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Former Undergraduate Researcher
+role: Undergraduate Researcher
 
 education:
   courses:
