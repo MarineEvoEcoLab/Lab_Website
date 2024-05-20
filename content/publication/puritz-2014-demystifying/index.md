@@ -9,6 +9,5 @@ authors:
 - Christopher E Bird
 date: '2014-01-01'
 publishDate: '2024-05-20T14:26:19.249714Z'
-publication_types:
-- manuscript
+publication_types: ["2"]
 ---
