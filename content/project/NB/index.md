@@ -1,6 +1,6 @@
 ---
 title: Investigating the effects of coastal stressors on the distribution of genomic variation of oyster populations in Narragansett Bay
-summary: 
+summary: "Adult oysters were also collected from various sites in Narragansett Bay in 2017 and 2020. Tissue samples were taken, and DNA was extracted for sequencing. Environmental data like temperature, salinity, pH, dissolved oxygen, and chlorophyll-a concentrations were recorded at each site, and the influence of nearby sewage effluent was assessed.Probes created from the larval oyster mRNA were used to capture specific gene regions in the adult oysters' DNA. This allowed researchers to study the genetic response to the environmental stressors: coastal acidification and sewage effluent. The objectives of the study were to identify genetic loci under selection, analyze how environmental factors influence these loci, and understand the genetic adaptation from larval to adult stages in response to coastal stressors."
 tags:
 - NB
 date: "2016-04-27T00:00:00Z"
@@ -29,6 +29,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
+
 # Investigating how larval response to multiple coastal stressors shapes the distribution of genomic variation of adult oysters
 _Amy Zyck<sup>1</sup>, Rebecca Stevick<sup>2</sup>, Marta Gomez-Chiarri<sup>2</sup>, & Jonathan Puritz<sup>1</sup>_
 1. University of Rhode Island, Department of Biological Sciences
