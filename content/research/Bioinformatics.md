@@ -17,7 +17,7 @@ subtitle: |
     <div style="display: flex; align-items: center; justify-content: left; text-align: justify;">
       <img src="Bioinformatics.png" alt="Sequencer Icon" width="200" style="margin-right: 40px;">
       <div>
-        As genomic scale data sets become standard in molecular ecology, understanding how to efficiently and accurately process raw data is critical for accuracy in downstream population-level analysis.  Current research focuses on RADseq bioinformatics and developing "reference-free" methods for exome captured data analysis.
+        As genomic scale data sets become standard in molecular ecology, understanding how to efficiently and accurately process raw data is critical for accuracy in downstream population-level analysis.  
       </div>
     </div>   
 

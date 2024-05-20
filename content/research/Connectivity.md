@@ -17,7 +17,7 @@ subtitle: |
     <div style="display: flex; align-items: center; justify-content: left; text-align: justify;">
       <img src="Connectivity.png" alt="Sequencer Icon" width="200" style="margin-right: 40px;">
       <div>
-        Life history traits, such as location of fertilization and mode of larval development, have long been thought to influence the evolutionary process of marine organisms, from fine-scale genetic structure to the tempo and mode of speciation.  Current research focuses on how population connectivity influences populations on the margins of species ranges.
+        Life history traits, such as location of fertilization and mode of larval development, have long been thought to influence the evolutionary process of marine organisms, from fine-scale genetic structure to the tempo and mode of speciation.  
       </div>
     </div>   
 

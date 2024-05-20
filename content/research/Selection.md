@@ -17,7 +17,7 @@ subtitle: |
     <div style="display: flex; align-items: center; justify-content: left; text-align: justify;">
       <img src="Selection.png" alt="Sequencer Icon" width="200" style="margin-right: 40px;">
       <div>
-        The environmental impacts of an ever-growing human population cross multiple spatial and temporal boundaries, and marine organisms experience all of these stressors simultaneously, increasing the need for research on synergistic effects.  Current research uses controlled, factorial exposure experiments to measure phenotypic and genotypic changes of larvae after exposure to ocean acidification conditions, sewage effluent, and the combination of the two. 
+        The environmental impacts of an ever-growing human population cross multiple spatial and temporal boundaries, and marine organisms experience all of these stressors simultaneously, increasing the need for research on synergistic effects.  
       </div>
     </div>   
 
