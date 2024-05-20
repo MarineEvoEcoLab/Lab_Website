@@ -11,11 +11,11 @@ weight: 50
 
 title: |
     <div style="text-align: left;">
-      Selection
+      Seascape Genomics
     </div> 
 subtitle: |
     <div style="display: flex; align-items: center; justify-content: left; text-align: justify;">
-      <img src="SeascapeGenomics.png" alt="Sequencer Icon" width="200" style="margin-right: 40px;">
+      <img src="SeascapeGenomics.png" alt="pollution" width="200" style="margin-right: 40px;">
       <div>
        We determine the role of natural and anthropogenic forces shaping the evolution of marine populations by testing (i) if selective regimes differ and interact across life-history stages and (ii) if the frequencies of both neutral and resistant genotypes correlate to environmental conditions and if adaptive loci partitioned across life stage. Environmental data are integrated into a seascape genomics framework using panel of genomic markers, including potential loci under selection during early-life history to survey the genome of adult populations across urbanized estuaries.  
       </div>
