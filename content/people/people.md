@@ -19,6 +19,7 @@ content:
   - Principal Investigators
   - Postdoctoral Researchers
   - Graduate Students
+  - Lab Managers and Research Asssistants
   - Undergraduates
   - Visitors
   - Alumni
