@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Megan Guidry
+title: Cassandra Cerasia
 
 # Username (this should match the folder name)
 authors:
--  Megan Guidry
+-  Cassandra Cerasia
 
 # Is this the primary user of the site?
 superuser: false
@@ -13,18 +13,22 @@ superuser: false
 role: PhD Student
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: NSF Graduate Research Fellow Ph.D. student at the University of Rhode Island studying how coastal stressors affect evolutionary processes in oysters.
 
 interests:
 - Oysters
-- Computational Linguistics
-- Information Retrieval
 
 education:
   courses:
-  - course: BSc in Biology 
-    institution: Louisiana State University 
-    year: 2020
+  - course: BSc in Marine Biology 
+    institution: Roger Williams University
+    year: 2023
+  - course: BA in Chemistry
+    institution: Roger Williams University
+    year: 2023
+  - course: BA in Aquaculture & Aquarium Science
+    institution: Roger Williams University
+    year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -33,16 +37,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
+  link: 'mailto:cassandra.cerasia@uri.edu'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/casscerasia
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/CassandraCerasia
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -57,5 +61,4 @@ email: ""
 user_groups:
 - Graduate Students
 ---
-
-I am from just up-river of New Orleans, and I love squishy, slimy inverts! I earned a B.S. in Biology from Louisiana State University. Growing up in southeast Louisiana, where the land meets water and coastal communities are on the front lines of climate change, shaped my interests in fisheries species, specifically oysters. I’m interested in the intersections of environmental change, stress, and oyster genomics. I also have interests in microbial ecology and coastal water quality. Outside of science, I enjoy cycling classes, reading, listening to podcasts, and watching LSU football.
+I am an NSF Graduate Research Fellow Ph.D student at the University of Rhode Island studying Biology and Environmental Science with a concentration in Evolution and Marine Biology. I am currently researching how multiple coastal stressors, such as low salinity, low pH, and hypoxia, structure the population connectivity and microevolution of eastern oyster Crassostrea virginica populations. I have a Bachelor of Science in Marine Biology and a Bachelor of Arts in Chemistry and Aquaculture and Aquarium Science. I am passionate about using molecular tools to answer questions in marine science and conservation and am looking for connections that will help me in my career.
