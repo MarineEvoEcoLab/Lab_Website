@@ -2,7 +2,7 @@
 title: Coastal Stressors across urbanized estuaries
 summary: 
 tags:
-- Coastal_Stressors_SG_
+- Coastal_Stressors_SG
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
