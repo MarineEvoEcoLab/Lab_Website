@@ -5,11 +5,12 @@
 
 # Appearance
 
-theme: minimal
+#theme: minimal
 day_night: true
 font: native
 font_size: L
-mode: dark
+theme_day: minimal
+theme_night: minimal
 
 # SEO
 
