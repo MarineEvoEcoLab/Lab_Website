@@ -47,19 +47,9 @@ disableAliases: true
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
   section: [HTML, RSS]
-markup:
-  defaultMarkdownHandler: goldmark
-  goldmark:
-    renderer:
-      unsafe: true
-  highlight:
-    codeFences: false
-  tableOfContents:
-    startLevel: 2
-    endLevel: 3
 imaging:
   resampleFilter: lanczos
-  quality: 100
+  quality: 75
   anchor: smart
 timeout: 600000
 taxonomies:
@@ -67,6 +57,8 @@ taxonomies:
   category: categories
   publication_type: publication_types
   author: authors
+markup:
+  _merge: deep
 related:
   threshold: 80
   includeNewer: true
@@ -76,9 +68,7 @@ related:
       weight: 100
     - name: categories
       weight: 70
-
 security:
-  funcs:
-    getenv:
-      - ^HUGO_
-      - ^WC_
+  _merge: deep
+sitemap:
+  _merge: deep

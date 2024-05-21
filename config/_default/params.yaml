@@ -59,72 +59,43 @@ address_format: en-us
 
 # Site features
 
-highlight: false
-math: false
-diagram: false
-privacy_pack: false
-show_related:
-  post: true
-  project: true
-  publication: true
-  talk: true
-reading_time: true
-section_pager: false
-sharing: true
-copyright_license:
-  enable: false
-  allow_derivatives: false
-  share_alike: true
-  allow_commercial: false
-  notice: 'This work is licensed under {license}'
-plugins_js: []
-avatar:
-  gravatar: false
-  shape: circle
-publications:
-  date_format: January 2006
-  citation_style: apa
-projects:
-  post_view: 2
-  publication_view: 2
-  talk_view: 2
-comments:
-  provider: ''
-  commentable:
-    page: true
-    post: true
-    docs: true
-    project: true
-    publication: true
-    talk: true
-  disqus:
-    shortname: ''
-    show_count: true
-  commento:
-    url: ''
-search:
-  provider: wowchemy
-  algolia:
-    app_id: ''
+features:
+  syntax_highlighter:
+    enable: false
+    extra_languages:
+      - r
+      - latex
+  math:
+    enable: false
+  privacy_pack:
+    enable: false
+  repository:
+    url: 'https://github.com/MarineEvoEcoLab/Lab_Website'
+    content_dir: content
+    branch: main
+  avatar:
+    gravatar: false
+    shape: circle
+  comment:
+    provider: ''
+    disqus:
+      shortname: ''
+      show_count: true
+    commento:
+      url: ''
+  search:
+    provider: wowchemy
+    algolia:
+      app_id: ''
+      api_key: ''
+      index_name: ''
+      show_logo: false
+  map:
+    provider: 'mapnik'
     api_key: ''
-    index_name: ''
-    show_logo: false
-map:
-  provider: mapnik
-  api_key: ''
-  zoom: 15
-marketing:
-  google_analytics: ''
-  google_tag_manager: ''
-  google_site_verification: ''
-  baidu_site_verification: ''
-  baidu_tongji: ''
-cms:
-  branch: main
-  local_backend: false
-icon:
-  pack:
-    ai: true
+    zoom: 15
+
+# Extensions
 
 extensions:
   cms:
@@ -134,4 +105,10 @@ extensions:
     # Enable if you use the Portfolio widget or Publication filter
     enable: true
   academicons:
-    enable: false
+    enable: true
+
+# Citation style
+
+publications:
+  date_format: January 2006
+  citation_style: apa
