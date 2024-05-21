@@ -21,4 +21,4 @@ A PhD (by position start date) with experience in population genomics, marine ev
 
 ### Desired Qualifications:
 
-Experience working with marine invertebrates, especially relevant experience in laboratory spawning and larviculture.  Preferred start date is between before January 1, 2024.
+Experience working with marine invertebrates, especially relevant experience in laboratory spawning and larviculture.  Preferred start date is before Sep 1, 2024.
