@@ -31,7 +31,7 @@ css_class:
 Coastal ecosystems face a complex of stressors that span multiple temporal and spatial scales, from long-term global ocean change to localized episodes of coastal acidification, and marine species experience these multiple stressors simultaneously. Understanding how marine populations will evolve in response to environmental change requires investigating the synergistic impacts of multiple stressors across all life stages.
 
 Our research is divided into two foundational pillars: 
-![img](RO.png)
+![img](/RO.png)
 
 
 * Understanding how natural and anthropogenic processes affect the evolution of marine populations through the lens of larval dispersal.
