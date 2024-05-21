@@ -22,13 +22,16 @@ During both the academic year and summer, there research opportunities for URI u
 The Puritz Lab accepts students through the [Biological and Environmental Sciences Graduate Program](https://web.uri.edu/cels/academics/bes/) either through the [Ecology and Ecosystems specialization](https://web.uri.edu/cels/academics/bes/ecology-and-ecosystem-sciences/) or the [Evolution and Marine Biology specialization](https://web.uri.edu/cels/academics/bes/evolution-and-marine-biology/).  In general, I'm looking for graduate students who are passionate about research, are creative thinkers and problem solvers, and who are dedicated, self-motivated, and driven to succeed.  Broadly, I'm interested in how human populations alter the evolution of marine populations and in the development of research methods and bioinformatic tools to answer questions on marine organisms.  I would like my graduate students to share some of those interests, but I am also excited about the possibility of expanding the lab's research horizons.  
 
 Choosing a graduate program and mentor can be a difficult decision.  I **highly** recommend reading a few of these excellent blog posts to help inform your choices.  
+
 ​
 ["So, you want to go to grad school? Nail the inquiry email"](https://contemplativemammoth.com/2013/04/08/so-you-want-to-go-to-grad-school-nail-the-inquiry-email/) - Jacquelyn Gill
+
 ​
 ["Information for perspective students"](https://tobolab.org/prospective-students/) - Rob Toonen
 Wise words from my PhD advisor
+
 ​
-[]"PhD Application Hints"](https://labroides.wordpress.com/2012/12/17/ph-d-application-hints/) - Joshua Drew
+["PhD Application Hints"](https://labroides.wordpress.com/2012/12/17/ph-d-application-hints/) - Joshua Drew
 ​
 Students who are still interested should contact me directly (jpuritz@uri.edu) to discuss her or his research interests and application.
 ​
