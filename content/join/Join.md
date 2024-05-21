@@ -33,6 +33,7 @@ Wise words from my PhD advisor
 ​
 ["PhD Application Hints"](https://labroides.wordpress.com/2012/12/17/ph-d-application-hints/) - Joshua Drew
 ​
-Students who are still interested should contact me directly (jpuritz@uri.edu) to discuss her or his research interests and application.
+
+Students who are still interested should contact me directly (jpuritz@uri.edu) to discuss their research interests and application.
 ​
 ​
