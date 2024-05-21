@@ -4,7 +4,7 @@
 widget: portfolio
 
 # This file represents a page section.
-headless: TRUE
+headless: true
 
 # Order that this section appears on the page.
 weight: 30
@@ -38,10 +38,9 @@ content:
       tag: EecSeqBio
     - name: Eastern Oyster Genome
       tag: EOG
-   - name: dDocent
+    - name: dDocent
       tag: dDocent
 
-        
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '1'
@@ -54,5 +53,5 @@ design:
   view: 5
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows: True
+  flip_alt_rows: true
 ---
