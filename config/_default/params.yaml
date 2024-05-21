@@ -15,29 +15,27 @@ mode: dark
 
 site_type: Organization
 local_business_type: ''
-org_name: ''
-description: My research group description.
-twitter: ''
+org_name: 'Puritz Lab of Marine Evolutionary Ecology'
+description: The Puritz Lab of Marine Evolutionary Ecology is located with the College of Environmental and Life Sciences at the University of Rhode Island. Our research investigates how natural and anthropogenic processes affect the evolution of marine populations through the lens of larval dispersal. We combine laboratory multi-stressor larval exposure experiments with genomic surveys of natural populations, analyzing patterns of selection and migration in a geographic context using landscape (or seascape) genomic models. Our lab also develops laboratory and bioinformatic methods to facilitate the use of next-generation sequencing in non-model species.
+twitter: 'https://x.com/MarineEvoEcoLab'
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: jpuritz@uri.edu
+phone: 401-874-9020
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: 120 Flagg RD
+  city: Kingston
+  region: RI
+  postcode: '02881'
   country: United States
   country_code: US
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  latitude: '41.49044'
+  longitude: '-71.528328'
+directions: 
 office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+appointment_url: 
 contact_links:
 #  - icon: comments
 #    icon_pack: fas
