@@ -15,3 +15,6 @@ name = "Ocean"
   home_section_odd = "#838383"
   home_section_even = "#5E9CCB"
 
+# Backgrounds
+  background = "#336699"
+
