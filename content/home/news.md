@@ -19,6 +19,7 @@ content:
   order: desc
   page_type: post
 design:
-  view: 3
-  columns: "1"
+  view: 2
+  columns: "2"
 ---
+<a class="twitter-timeline" data-theme="dark" href="https://twitter.com/MarineEvoEcoLab?ref_src=twsrc%5Etfw">Tweets by MarineEvoEcoLab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
