@@ -31,3 +31,6 @@ Nadia Moss
 Amy Zyck
 
 Jonathan B. Puritz
+
+
+[Link for poster](https://www.sammykatta.com/diversity)
