@@ -13,7 +13,7 @@
 #theme_night: minimal
 
 appearance:
-  theme_day: minimal
+  theme_day: ocean
   theme_night: minimal
   font: native
   font_size: L
