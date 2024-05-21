@@ -6,11 +6,18 @@
 # Appearance
 
 #theme: minimal
-day_night: true
-font: native
-font_size: L
-theme_day: minimal
-theme_night: minimal
+#day_night: true
+#font: native
+#font_size: L
+#theme_day: minimal
+#theme_night: minimal
+
+appearance:
+  theme_day: minimal
+  theme_night: minimal
+  font: native
+  font_size: L
+
 
 # SEO
 
