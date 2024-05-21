@@ -34,12 +34,12 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: Expressed Exome Capture Sequencing
-    tag: EecSeqBio
-  - name: Eastern Oyster Genome
-    tag: EOG
-  - name: dDocent
-    tag: dDocent
+    - name: Expressed Exome Capture Sequencing
+      tag: EecSeqBio
+    - name: Eastern Oyster Genome
+      tag: EOG
+   - name: dDocent
+      tag: dDocent
 
         
 design:
