@@ -20,6 +20,6 @@ content:
   page_type: post
 design:
   view: 2
-  columns: "2"
+  columns: "1"
 ---
-<a class="twitter-timeline" data-theme="dark" href="https://twitter.com/MarineEvoEcoLab?ref_src=twsrc%5Etfw">Tweets by MarineEvoEcoLab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-height="1000" data-theme="dark" href="https://twitter.com/MarineEvoEcoLab?ref_src=twsrc%5Etfw">Tweets by MarineEvoEcoLab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
