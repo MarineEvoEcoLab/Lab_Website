@@ -12,5 +12,6 @@ name = "Ocean"
   menu_title = "#fff"
 
   # Home sections
-  home_section_odd = "rgb(255, 255, 255)"
-  home_section_even = "rgb(247, 247, 247)"
+  home_section_odd = "#838383"
+  home_section_even = "#5E9CCB"
+
