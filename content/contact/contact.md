@@ -27,25 +27,26 @@ content:
   coordinates:
     latitude: '41.49044'
     longitude: '-71.528328'
-directions: 
-office_hours:
-appointment_url: 
-contact_links:
+  directions: 
+  office_hours:
+  appointment_url: 
+# contact_links:
 #  - icon: comments
 #    icon_pack: fas
 #    name: Discuss on Forum
 #    link: 'https://discourse.gohugo.io'
  # Automatically link email and phone or display as text?
-autolink: true
+  autolink: true
   
   # Email form provider
-form:
-  provider: netlify
-  formspree:
-    id:
-  netlify:
+  form:
+    provider: netlify
+    formspree:
+      id:
+    netlify:
       # Enable CAPTCHA challenge to reduce spam?
-    captcha: false
+      captcha: false
+
 design:
   columns: '1'
 ---
