@@ -18,7 +18,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: IMG_3064.jpeg
+    image: /assets/media/IMG_3064.jpeg
     image_darken: 0.5
     image_parallax: false
     image_position: center
