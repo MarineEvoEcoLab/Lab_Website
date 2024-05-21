@@ -17,6 +17,7 @@ appearance:
   theme_night: minimal
   font: native
   font_size: L
+  day_night: true
 
 
 # SEO
