@@ -2,7 +2,7 @@
 title: Coastal Stressors
 summary: 
 tags:
-- Coastal_Stressors
+  - Coastal_Stressors
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
