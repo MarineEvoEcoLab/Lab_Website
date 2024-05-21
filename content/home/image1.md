@@ -19,7 +19,7 @@ design:
   columns: "1"
   background:
     image: IMG_3064.jpeg
-    image_darken: 0.5
+    image_darken: 0.6
     image_parallax: false
     image_position: center
     image_size: cover
