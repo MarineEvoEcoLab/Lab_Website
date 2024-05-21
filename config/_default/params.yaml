@@ -27,28 +27,7 @@ org_name: 'Puritz Lab of Marine Evolutionary Ecology'
 description: The Puritz Lab of Marine Evolutionary Ecology is located with the College of Environmental and Life Sciences at the University of Rhode Island. Our research investigates how natural and anthropogenic processes affect the evolution of marine populations through the lens of larval dispersal. We combine laboratory multi-stressor larval exposure experiments with genomic surveys of natural populations, analyzing patterns of selection and migration in a geographic context using landscape (or seascape) genomic models. Our lab also develops laboratory and bioinformatic methods to facilitate the use of next-generation sequencing in non-model species.
 twitter: 'https://x.com/MarineEvoEcoLab'
 
-# Contact (edit or remove options as required)
 
-email: jpuritz@uri.edu
-phone: 401-874-9020
-address:
-  street: 120 Flagg RD
-  city: Kingston
-  region: RI
-  postcode: '02881'
-  country: United States
-  country_code: US
-coordinates:
-  latitude: '41.49044'
-  longitude: '-71.528328'
-directions: 
-office_hours:
-appointment_url: 
-contact_links:
-#  - icon: comments
-#    icon_pack: fas
-#    name: Discuss on Forum
-#    link: 'https://discourse.gohugo.io'
 
 # Site header
 
@@ -60,6 +39,15 @@ main_menu:
   show_day_night: true
   show_search: false
   highlight_active_link: true
+
+footer:
+  copyright: 
+    notice: '© {year} Jonathan Puritz. This work is licensed under {license}'
+    license:
+      enable: true
+      allow_derivatives: false
+      share_alike: true
+      allow_commercial: false
 
 # Localization
 
