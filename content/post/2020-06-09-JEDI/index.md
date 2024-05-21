@@ -2,8 +2,6 @@
 title: Statement Against Racial Injustice
 date: 2020-06-09
 lastmod: 2020-06-09  
-image:
-    focal point: "top"
 ---
 
 The Puritz Lab of Marine Evolutionary Ecology firmly states that Black Lives Matter.  We want to make it clear that we value the Black students, staff, and faculty members in our URI community, and that we unequivocally value all Black lives in our communities and beyond.  We recognize that this country has systemic racial oppression and colonialism built into its foundation, including our state, our university, our funding sources, and the institution of science itself. With this recognition, we will actively work against these systems by speaking and acting out against inequities and injustices.  To our Black community within and beyond URI, we see you, we hear you, and we are with you!     
