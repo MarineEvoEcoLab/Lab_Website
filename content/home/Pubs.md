@@ -1,6 +1,6 @@
 ---
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: collection
+widget: blank
 headless: true
 weight: 25
 
