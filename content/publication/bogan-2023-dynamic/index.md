@@ -1,6 +1,6 @@
 ---
 title: 'A dynamic web resource for robust and reproducible genomics in nonmodel species:
-  marineomics. io'
+  marineomics.io'
 authors:
 - Samuel N Bogan
 - Jason Johns
