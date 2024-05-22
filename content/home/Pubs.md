@@ -16,9 +16,9 @@ content:
     publication_type: ""
     tag: ""
   offset: 0
-  order: desc
+  order: date
   page_type: publication
 #design:
-#  view: 2
+#  view: compact
 #  columns: "1"
 ---
