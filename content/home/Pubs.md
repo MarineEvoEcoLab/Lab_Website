@@ -18,7 +18,7 @@ content:
   offset: 0
   order: date
   page_type: publication
-#design:
-#  view: compact
-#  columns: "1"
+design:
+  view: compact
+  columns: "1"
 ---
