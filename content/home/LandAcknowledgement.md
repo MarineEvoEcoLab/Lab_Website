@@ -23,6 +23,7 @@ text_color_light: true
 
 <br>  
 <br> 
+
 #### [Land Acknowledgement](https://www.uri.edu/about/land-acknowledgment/)
  
 The University of Rhode Island and the Puritz Lab of Marine Evolutionary Ecology occupies the traditional stomping ground of the Narragansett Nation and the Niantic People. We honor and respect the enduring and continuing relationship between the Indigenous people and this land by teaching and learning more about their history and present-day communities, and by becoming stewards of the land we, too, inhabit.
