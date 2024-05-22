@@ -30,3 +30,8 @@ css_style:
 css_class: 
 ---
 The Puritz Lab of Marine Evolutionary Ecology is located with the [College of Environmental and Life Sciences](https://web.uri.edu/cels/) at the [University of Rhode Island](https://www.uri.edu). Our research investigates how natural and anthropogenic processes affect the evolution of marine populations through the lens of larval dispersal.  We combine laboratory multi-stressor larval exposure experiments with genomic surveys of natural populations, analyzing patterns of selection and migration in a geographic context using landscape (or seascape) genomic models.  Our lab also develops laboratory and bioinformatic methods to facilitate the use of next-generation sequencing in non-model species.
+
+
+#### [Land Acknowledgement](https://www.uri.edu/about/land-acknowledgment/)
+
+The University of Rhode Island occupies the traditional stomping ground of the Narragansett Nation and the Niantic People. We honor and respect the enduring and continuing relationship between the Indigenous people and this land by teaching and learning more about their history and present-day communities, and by becoming stewards of the land we, too, inhabit.
