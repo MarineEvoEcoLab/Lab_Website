@@ -17,8 +17,8 @@ name = "custom_dark"
 
 [dark]
   # Primary
-  #primary = "#bbdefb"
+  # primary = "#bbdefb"
   primary = "000D18"
-  
+
   link = "#bbdefb"
   link_hover = "#bbdefb"
