@@ -15,7 +15,7 @@
 appearance:
   #theme_day: ocean
   theme_default: dark
-  theme_night: Minimal
+  theme_night: custom_dark
   font: native
   font_size: L
   day_night: false
