@@ -11,9 +11,13 @@ IN RESTRICTION SITE-ASSOCIATED DNA SEQUENCING."
 
 Two undergraduates, [Cierra Westbrook](/author/cierra-westbrook) and [Erin Wildes](/author/erin-wildes), and Research Technician [Caitlin Randall](/author/caitlin-randall) presented their first posters at a national conference, the National Shellfisheries Association.  PhD student, [Megan Guidry](/author/megan-guidry) also rocked a presentation at the same conference!
 
+We welcomed Postdoctoral Fellow [Coline Caillon](/author/coline-caillon) to the team!
+
 Research technician, [Caitlin Randall](/author/caitlin-randall), was accepted into the LSU [LAGNiAppE Postbaccalaureate Progam ](https://www.lsu.edu/science/biosci/programs/postbacc-research/index.php)
 
 PhD student [Cassandra Cerasia](/author/cassandra-cerasia) was awarded the NSF [Graduate Research Fellowship](https://www.nsfgrfp.org/).
+
+Phd students [Amy Zyck](/author/amy-zyck) and [Jacob Green](/author/jacob-green) pumped out something close to 700 exome library preps.  Keeping me busy submitting sequencing orders and finding hard drive space!
 
 Undergraduate [Cierra Westbrook](/author/cierra-westbrook) was awarded the Elmer A. Palmatier Memorial Scholarship from the Department of Biological Sciences.
 
@@ -21,10 +25,6 @@ Undergradaute [Lauren Albanese](/author/lauren-albanese) graduated *Summa Cum La
 Rescue and Rehabilitation Center](https://www.seaturtlehospital.org/).
 
 Undergraduate [Hector Santiago](/author/hector-santiago) graduated *Summa Cum Laude* in May, and he is awaiting official word on an awesome job at a high-profile research institute in New England.
-
-Phd students [Amy Zyck](/author/amy-zyck) and [Jacob Green](/author/jacob-green) pumped out something close to 700 exome library preps.  Keeping me busy submitting sequencing orders and finding hard drive space!
-
-We welcomed Postdoctoral Fellow [Coline Caillon](/author/coline-caillon) to the team!
 
 We're also super lucky to have undergrads [Juliana Bucci](/author/juliana-bucci) and [Cierra Westbrook](/author/cierra-westbrook) agree to stay and work in the lab for a second summer!
 
