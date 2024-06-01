@@ -24,6 +24,8 @@ Undergraduate [Hector Santiago](/author/hector-santiago) graduated *Summa Cum La
 
 Phd students [Amy Zyck](/author/amy-zyck) and [Jacob Green](/author/jacob-green) pumped out something close to 700 exome library preps.  Keeping me busy submitting sequencing orders and finding hard drive space!
 
+We welcomed Postdoctoral Fellow [Coline Caillon](/author/coline-caillon) to the team!
+
 We're also super lucky to have undergrads [Juliana Bucci](/author/juliana-bucci) and [Cierra Westbrook](/author/cierra-westbrook) agree to stay and work in the lab for a second summer!
 
 It's such a long list of achievements, and these are just the biggest ones.  I have to say that I am just so incredibly proud of the PLOMEE team! 
