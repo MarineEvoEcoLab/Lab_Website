@@ -4,7 +4,7 @@ widget: blank
 headless: true
 weight: 25
 
-title: Lab Social Media
+title: Lab News
 subtitle:
 
 content:
