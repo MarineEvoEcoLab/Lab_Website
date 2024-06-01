@@ -6,14 +6,14 @@ lastmod: 2024-06-01
 
 As I sit and reflect on the Spring 2024 semester, I am just amazed at all the incredible achievements of the PLOMEE team!  
 
-We started the Spring semester with [Gabe Barret](/author/gabriel-barrett) defending his Master's thesis, "VARIANT GRAPHS IMPROVE ACCURACY OF DOWNSTREAM ANALYSIS
-IN RESTRICTION SITE-ASSOCIATED DNA SEQUENCING."
+We started the Spring semester with [Gabe Barret](/author/gabriel-barrett) defending his Master's thesis, "Variant Graphs Improve Accuracy of Downstream Analysis
+In Restriction Site-Associated DNA Sequencing."
 
 Two undergraduates, [Cierra Westbrook](/author/cierra-westbrook) and [Erin Wildes](/author/erin-wildes), and Research Technician [Caitlin Randall](/author/caitlin-randall) presented their first posters at a national conference, the National Shellfisheries Association.  PhD student, [Megan Guidry](/author/megan-guidry) also rocked a presentation at the same conference!
 
 We welcomed Postdoctoral Fellow [Coline Caillon](/author/coline-caillon) to the team!
 
-Research technician, [Caitlin Randall](/author/caitlin-randall), was accepted into the LSU [LAGNiAppE Postbaccalaureate Progam ](https://www.lsu.edu/science/biosci/programs/postbacc-research/index.php)
+Research technician, [Caitlin Randall](/author/caitlin-randall), was accepted into the LSU [LAGNiAppE Postbaccalaureate Progam ](https://www.lsu.edu/science/biosci/programs/postbacc-research/index.php).
 
 PhD student [Cassandra Cerasia](/author/cassandra-cerasia) was awarded the NSF [Graduate Research Fellowship](https://www.nsfgrfp.org/).
 
