@@ -22,6 +22,8 @@ Rescue and Rehabilitation Center](https://www.seaturtlehospital.org/).
 
 Undergraduate [Hector Santiago](/author/hector-santiago) graduated *Summa Cum Laude* in May, and he is awaiting official word on an awesome job at a high-profile research institute in New England.
 
-Phd students [Amy Zyck](/author/amy-zyck) and [Jacob Green](/author/jacob-green) pumped out something close to 500 exome library preps.  Keeping me busy submitting sequencing orders and finding hard drive space!
+Phd students [Amy Zyck](/author/amy-zyck) and [Jacob Green](/author/jacob-green) pumped out something close to 700 exome library preps.  Keeping me busy submitting sequencing orders and finding hard drive space!
+
+We're also super lucky to have undergrads [Juliana Bucci](/author/juliana-bucci) and [Cierra Westbrook](/author/cierra-westbrook) agree to stay and work in the lab for a second summer!
 
 It's such a long list of achievements, and these are just the biggest ones.  I have to say that I am just so incredibly proud of the PLOMEE team! 
