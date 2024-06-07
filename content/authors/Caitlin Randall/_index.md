@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Assistant 
+role: Former Research Assistant 
 
 education:
   courses:
@@ -44,6 +44,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Lab Managers and Research Asssistants
+- Alumni
 ---
 Currently, I am working as a full-time Research Assistant, where I manage both larval and juvenile Eastern Oyster (Crassostrea virginica) populations and independently cultivate algal cultures for feeding. We expose these oysters to stress cycling conditions within an experimental aquarium system in order to understand how various coastal stressors affect natural selection and microevolution within various populations of Crassostrea virginica across multiple life stages. Following exposure to these stress cycling conditions, these oysters then will be innoculated with Roseovarius crassostreae, Juvenile Oyster Disease, in order to determine whether exposure to environmental stressors in earlier life stages yields a survival advantage or disadvantage. Check out my CV (linked) or message me for more information!
