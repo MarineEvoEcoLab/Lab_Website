@@ -4,7 +4,8 @@ title: Jonathan Puritz
 
 author:
 - Jonathan Puritz
-- Jonathan B. Puritz
+- Jonathan B Puritz
+- admin
   
 # Is this the primary user of the site?
 superuser: true
