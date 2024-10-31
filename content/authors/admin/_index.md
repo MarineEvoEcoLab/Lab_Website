@@ -2,6 +2,10 @@
 # Display name
 title: Jonathan Puritz
 
+author:
+- Jonathan Puritz
+- Jonathan B. Puritz
+  
 # Is this the primary user of the site?
 superuser: true
 
