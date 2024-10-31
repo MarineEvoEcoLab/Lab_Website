@@ -4,7 +4,7 @@ title: Bioaccumulation and metabolic effects of the endocrine disruptor methopre
 authors:
 - Anna N Walker
 - Parshall Bush
-- Jonathan Puritz
+- Jonathan B Puritz
 - Thomas Wilson
 - Ernest S Chang
 - Tim Miller
