@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jonathan Puritz
+title: Jonathan B Puritz
 
 author:
 - Jonathan B Puritz
