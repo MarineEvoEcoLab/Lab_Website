@@ -1,11 +1,11 @@
 ---
 # Display name
-title: Jonathan B Puritz
+title: Jonathan Puritz
 
 author:
 - Jonathan B Puritz
 - Jonathan Puritz
-- admin
+
   
 # Is this the primary user of the site?
 superuser: true
