@@ -3,8 +3,8 @@
 title: Jonathan Puritz
 
 author:
-- Jonathan Puritz
 - Jonathan B Puritz
+- Jonathan Puritz
 - admin
   
 # Is this the primary user of the site?
@@ -69,5 +69,4 @@ highlight_name: true
 user_groups:
 - Principal Investigator
 ---
-
 Jonathan Puritz is an associate professor of marine evolution at the University of Rhode Island. His uses molecular tools to understand the ecological and evolutionary processes of marine populations. Currently, his research focuses on using next-generation sequencing and genomics to understand how human populations affect connectivity and evolution in the ocean. He studies a variety of organisms, from oysters to sea stars.
