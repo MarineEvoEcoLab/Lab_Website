@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Megan Guidry
+title: Megan Delatte-Guidry
 
 # Username (this should match the folder name)
 authors:
@@ -10,17 +10,18 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: PhD Candidate
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include the intersections of environmental change, stress, and oyster genomics.
+bio: My research interests include environmental change and genomics in seafood systems.
 
 interests:
-- Oysters
+- shellfish aquaculture
+- genomics
 
 education:
   courses:
-  - course: BSc in Biology 
+  - course: BSc in Biological Sciences 
     institution: Louisiana State University 
     year: 2020
 
@@ -56,4 +57,4 @@ user_groups:
 - Graduate Students
 ---
 
-I am from just up-river of New Orleans, and I love squishy, slimy inverts! I earned a B.S. in Biology from Louisiana State University. Growing up in southeast Louisiana, where the land meets water and coastal communities are on the front lines of climate change, shaped my interests in fisheries species, specifically oysters. I’m interested in the intersections of environmental change, stress, and oyster genomics. I also have interests in microbial ecology and coastal water quality. Outside of science, I enjoy cycling classes, reading, listening to podcasts, and watching LSU football.
+I'm investigating how environmental stress affects larval and juvenile oysters—because saving the world sometimes starts with shellfish. Growing up in Louisiana, my love for coastal areas and seafood systems sparked an interest in food security and sustainable aquaculture. Since graduating from LSU in 2020 (geaux tigers!), I’ve spent countless hours in the molecular lab tinkering with DNA and in wetlabs and hatcheries, happily tending to baby oysters despite the wet boots and long days. I’m excited to put down roots in the Chesapeake Bay region after my defense. Outside the lab, I enjoy cycling, cooking, and spending time with family and friends.
