@@ -10,17 +10,21 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: Postdoctoral Researcher
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include environmental change and genomics in seafood systems.
+bio: My research interests include environmental change and shellfish aquaculture.
 
 interests:
+- coastal resilience
 - shellfish aquaculture
-- genomics
+- applied genomics
 
 education:
   courses:
+  - course: PhD in Biological and Environmental Sciences
+    institution: University of Rhode Island
+    year: 2026
   - course: BSc in Biological Sciences 
     institution: Louisiana State University 
     year: 2020
@@ -33,9 +37,8 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:mguidry@uri.edu'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/meg_guidry
+- icon: linkedin
+  link: https://www.linkedin.com/in/megan-delatte-guidry/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=T5LmYfIAAAAJ&hl=en&oi=ao
@@ -54,7 +57,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Postdoctoral Researchers
 ---
 
-I'm investigating how environmental stress affects larval and juvenile oysters—because saving the world sometimes starts with shellfish. Growing up in Louisiana, my love for coastal areas and seafood systems sparked an interest in food security and sustainable aquaculture. Since graduating from LSU in 2020 (geaux tigers!), I’ve spent countless hours in the molecular lab tinkering with DNA and in wetlabs and hatcheries, happily tending to baby oysters despite the wet boots and long days. I’m excited to put down roots in the Chesapeake Bay region after my defense. Outside the lab, I enjoy cycling, cooking, and spending time with family and friends.
+As a doctoral researcher in the Puritz Lab, I investigated how multiple environmental stresors affect oysters. My work spans experimental biology with larval and juvenile shellfish, next generation sequencing, and bioinformatics. I'm especially interested in furthering sustainable aquaculture and supporting resilient coastal communities through science based solutions. In my current role as a postdoctoral researcher, I am finalizing my PhD projects for publication and preparing for a future mission-drive role in applied research and policy.
